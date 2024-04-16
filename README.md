@@ -4,5 +4,7 @@ Simple Application that uses the windows api to get the current date and time in
 locales format and outputs it inside a window with a refresh button.
 
 Language:
-  Rust
-    windows crate
+Rust
+
+Crates:
+windows crate
