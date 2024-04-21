@@ -1,10 +1,19 @@
-First time using rust. So code is quite bad and lacks a lot of stuff
+First time using rust
 
 Simple Application that uses the windows api to get the current date and time in user specified 
-locales format and outputs it inside a window with a refresh button.
+locale format and outputs it inside a window with a refresh button.
 
 Language:
 Rust
 
-Crates:
-windows crate
+Used crates:
+chrono
+registry
+wchar
+winapi
+once_cell
+
+Pictures:
+![image](pictures/application_window.png)
+![image](pictures/app_cli_region_sidebyside.png)
+
